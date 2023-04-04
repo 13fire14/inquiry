@@ -1,7 +1,5 @@
 
 requests
-random
-datetime
 streamlit 
 lxml 
 pyttsx3 
