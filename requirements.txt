@@ -1,0 +1,8 @@
+
+requests
+re 
+random
+datetime
+streamlit 
+lxml 
+pyttsx3 
